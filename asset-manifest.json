@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quarantine-ItemCount-Cott/static/css/main.740e6b28.css",
+    "main.js": "/Quarantine-ItemCount-Cott/static/js/main.c8449316.js",
+    "index.html": "/Quarantine-ItemCount-Cott/index.html",
+    "main.740e6b28.css.map": "/Quarantine-ItemCount-Cott/static/css/main.740e6b28.css.map",
+    "main.c8449316.js.map": "/Quarantine-ItemCount-Cott/static/js/main.c8449316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.740e6b28.css",
+    "static/js/main.c8449316.js"
+  ]
+}
